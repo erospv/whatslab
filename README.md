@@ -53,7 +53,7 @@ npm start
 
 **Eros Pinder Valente**: *Desenvolvedor web full-stack*
 
-- [Linkedin](https://www.linkedin.com/in/eros-pinder-valente-43439189/)
+- [Linkedin](https://www.linkedin.com/in/erospv/)
 - [Github](https://github.com/erospv)
 - [Email](eros.pv@gmail.com)
 
